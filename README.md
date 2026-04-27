@@ -101,9 +101,23 @@ Durante a construção deste projeto foram aplicados conceitos como:
 
 ## 📸 Preview do Projeto
 
-(Adicione aqui uma imagem ou GIF do sistema rodando)
-
 ![preview](./assets/preview.png)
+
+---
+
+## 🔮 Melhorias Futuras
+
+ - Adicionar persistência com LocalStorage
+ - Implementar tela de checkout
+ - Adicionar sistema de quantidade por item
+ - Melhorar responsividade
+ - Integração com backend futuramente
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por José Felisbino
+📎 GitHub: GitHub JoseFelisbino
 
 
 

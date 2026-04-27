@@ -103,7 +103,7 @@ Durante a construção deste projeto foram aplicados conceitos como:
 
 (Adicione aqui uma imagem ou GIF do sistema rodando)
 
-![preview](./)
+![preview](./assets/preview.png)
 
 
 
